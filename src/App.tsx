@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Room Ranger App Init Project Setup
         </a>
       </header>
     </div>
